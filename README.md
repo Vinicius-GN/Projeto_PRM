@@ -256,6 +256,6 @@ Abra uma **Issue** para discutir melhorias ou envie o **PR** diretamente.
 | Nome                  | Número USP | GitHub                                 |
 |-----------------------|------------|----------------------------------------|
 | Vinicius Gustierrez Neves      | 14749363   | [@Vinicius-GN](https://github.com/Vinicius-GN)|
-| Beltrano Pereira      | 23456789   | [@beltrano](https://github.com/beltrano)|
+| Giovanna Tormena      | 12674335   | [@ghtormena](https://github.com/ghtormena)|
 | Ciclano Souza         | 34567890   | [@ciclano](https://github.com/ciclano)|
 
